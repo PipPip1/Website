@@ -7,4 +7,8 @@ def hello
   puts "hello, world!"
 end
 ```
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
+
 # Website
